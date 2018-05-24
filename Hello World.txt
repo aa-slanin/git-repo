@@ -1,4 +1,3 @@
 print("Hello, World!")
 print(Hello, Ruby!")
-print ("Heello! Wsem!")
-print ("Hello, dear Frend!")
+print ("Hello main dear Frend!")
